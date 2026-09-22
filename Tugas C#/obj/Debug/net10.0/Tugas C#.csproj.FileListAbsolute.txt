@@ -1,0 +1,14 @@
+C:\Users\LAB4\Documents\Lyy C#\Tugas C#\Tugas C#\bin\Debug\net10.0\Tugas C#.exe
+C:\Users\LAB4\Documents\Lyy C#\Tugas C#\Tugas C#\bin\Debug\net10.0\Tugas C#.deps.json
+C:\Users\LAB4\Documents\Lyy C#\Tugas C#\Tugas C#\bin\Debug\net10.0\Tugas C#.runtimeconfig.json
+C:\Users\LAB4\Documents\Lyy C#\Tugas C#\Tugas C#\bin\Debug\net10.0\Tugas C#.dll
+C:\Users\LAB4\Documents\Lyy C#\Tugas C#\Tugas C#\bin\Debug\net10.0\Tugas C#.pdb
+C:\Users\LAB4\Documents\Lyy C#\Tugas C#\Tugas C#\obj\Debug\net10.0\Tugas C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Documents\Lyy C#\Tugas C#\Tugas C#\obj\Debug\net10.0\Tugas C#.AssemblyInfoInputs.cache
+C:\Users\LAB4\Documents\Lyy C#\Tugas C#\Tugas C#\obj\Debug\net10.0\Tugas C#.AssemblyInfo.cs
+C:\Users\LAB4\Documents\Lyy C#\Tugas C#\Tugas C#\obj\Debug\net10.0\Tugas C#.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Documents\Lyy C#\Tugas C#\Tugas C#\obj\Debug\net10.0\Tugas C#.dll
+C:\Users\LAB4\Documents\Lyy C#\Tugas C#\Tugas C#\obj\Debug\net10.0\refint\Tugas C#.dll
+C:\Users\LAB4\Documents\Lyy C#\Tugas C#\Tugas C#\obj\Debug\net10.0\Tugas C#.pdb
+C:\Users\LAB4\Documents\Lyy C#\Tugas C#\Tugas C#\obj\Debug\net10.0\Tugas C#.genruntimeconfig.cache
+C:\Users\LAB4\Documents\Lyy C#\Tugas C#\Tugas C#\obj\Debug\net10.0\ref\Tugas C#.dll
